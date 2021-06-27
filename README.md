@@ -1,5 +1,5 @@
+<h2 align="center">Wolrd Soccer Oline - Frontend  </h2>
 <h1 align="center">
-  Wolrd Soccer Oline - Frontend  
   <img src="./src/images/Logo.png" width="250px" />
 </h1>
 
